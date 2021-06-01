@@ -1,0 +1,5 @@
+*.pt
+weights/
+runs/
+gas_data/
+
